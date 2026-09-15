@@ -1,0 +1,38 @@
+{
+  "job_title": "Machine Learning Associate",
+  "company_name": "InnovateTech Solutions",
+  "location": "Bengaluru, India (Hybrid)",
+  "job_type": "Full-Time",
+  "experience_required": "0 - 1 Years (Fresher)",
+  "education_requirements": [
+    "B.E. / B.Tech / M.Tech in Computer Science, Data Science, IT, or related quantitative fields.",
+    "Strong academic foundational knowledge in Linear Algebra, Probability, Statistics, and Calculus."
+  ],
+  "required_skills": [
+    "Proficient core programming in Python, including libraries like NumPy, Pandas, and Scikit-Learn.",
+    "Strong understanding of foundational ML algorithms (Regression, Classification, Clustering, Trees).",
+    "Basic knowledge of writing SQL queries to extract and filter data from relational databases.",
+    "Familiarity with version control workflows using Git and GitHub."
+  ],
+  "preferred_skills": [
+    "Basic exposure to Deep Learning frameworks such as TensorFlow or PyTorch.",
+    "Familiarity with Cloud platforms (AWS / GCP / Azure) for fetching data or deploying simple scripts.",
+    "Basic understanding of data cleaning, exploratory data analysis (EDA), and data visualization toolkits."
+  ],
+  "responsibilities": [
+    "Collaborate with senior data scientists and engineers to clean, preprocess, and structure raw data datasets.",
+    "Implement, test, and tune standard machine learning baselines and algorithms on curated data pipelines.",
+    "Assist in documenting experiment logs, model performance configurations, and analytical outcomes.",
+    "Participate in code reviews, stand-ups, and contribute actively to solving engineering pipelines."
+  ],
+  "nice_to_have": [
+    "Active participation or high rankings in Kaggle or related competitive data science challenges.",
+    "Personal projects or contributions open-sourced on GitHub demonstrating clean ML modeling pipelines.",
+    "Prior short-term internship experience working closely on data or backend product modules."
+  ],
+  "minimum_eligibility": [
+    "Maximum of 1 year of professional experience in software or data roles.",
+    "No active backlogs in undergraduate/postgraduate courses.",
+    "Available to start full-time employment immediately within 30 days."
+  ]
+}

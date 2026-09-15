@@ -1,0 +1,37 @@
+{
+  "requirement_match_score": 95.0,
+  "matched_skills": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Scikit-learn",
+    "SQL",
+    "Git",
+    "GitHub",
+    "Regression algorithms",
+    "Classification algorithms",
+    "Tree-based models",
+    "Data cleaning",
+    "Exploratory Data Analysis (EDA)",
+    "Data visualization (Matplotlib, Seaborn)"
+  ],
+  "missing_required_skills": [],
+  "matched_preferred_skills": [
+    "Data cleaning, exploratory data analysis (EDA), and data visualization toolkits"
+  ],
+  "strengths": [
+    "Proficient Python development with key ML libraries",
+    "Hands\u2011on experience building classical ML models and evaluating them",
+    "Solid SQL knowledge for data extraction",
+    "Version control expertise with Git/GitHub",
+    "Experience in data preprocessing, EDA, and visualization",
+    "Project experience with end\u2011to\u2011end AI pipelines and FastAPI deployment"
+  ],
+  "weaknesses": [
+    "No demonstrated experience with TensorFlow or PyTorch",
+    "No explicit cloud platform (AWS/GCP/Azure) exposure"
+  ],
+  "interview_eligible": true,
+  "recommendation": "Strong Match",
+  "reason": "The candidate possesses all required technical skills: Python with NumPy, Pandas, Scikit-learn; solid experience building regression, classification, and tree\u2011based models; SQL query capability; and version control using Git and GitHub. Additionally, they demonstrate strong data cleaning, EDA, and visualization abilities, covering the primary preferred skill. The only gaps are lack of exposure to deep\u2011learning frameworks and cloud platforms, which are optional."
+}

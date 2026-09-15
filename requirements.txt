@@ -1,0 +1,21 @@
+# Core FastAPI & Web
+fastapi
+uvicorn
+python-multipart
+
+# LLM & LangChain
+langchain
+langchain-groq
+langchain-community
+langchain-core
+pydantic
+
+# PDF Parsing
+pypdf
+
+# Environment & Config
+python-dotenv
+
+# Optional: for testing
+pytest
+httpx

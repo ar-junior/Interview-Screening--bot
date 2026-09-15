@@ -1,0 +1,87 @@
+{
+  "name": "ARJUN RATHWA",
+  "email": "ar.juunior@email.com",
+  "phone": "+916353863357",
+  "location": null,
+  "summary": "M.Sc. Computer Applications & IT graduate with a strong background in Mathematics and practical experience in AI/ML development. Completed a 3-month internship building classical ML pipelines and LangChain-based RAG solutions. Independently built an end-to-end 7-agent LLM screening and interview system using Llama 3.3 and FastAPI. Looking to contribute hands-on skills in Python development and AI workflows to an innovative engineering team.",
+  "technical_skills": [
+    "Python",
+    "SQL",
+    "HTML",
+    "CSS",
+    "NumPy",
+    "Pandas",
+    "Scikit-learn",
+    "Matplotlib",
+    "Seaborn",
+    "LangChain",
+    "Retrieval-Augmented Generation (RAG)",
+    "Prompt Engineering",
+    "Pydantic (Structured Outputs)",
+    "FAISS (Vector Search)",
+    "Groq LLM API (Llama 3.3 70B)",
+    "FastAPI",
+    "Django (basic)",
+    "REST API Design",
+    "MySQL",
+    "Firebase / Firestore",
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Google Colab",
+    "Docker (basic)",
+    "Vercel / Render"
+  ],
+  "soft_skills": [],
+  "education": [
+    {
+      "degree": "M.Sc. Computer Applications & IT",
+      "institute": "Ganpat University, Mehsana",
+      "passing_year": "2026",
+      "cgpa": "6.68"
+    },
+    {
+      "degree": "B.Sc. Mathematics",
+      "institute": "Grow More College, Himmatnagar",
+      "passing_year": "2024",
+      "cgpa": "6.94"
+    }
+  ],
+  "experience": [
+    {
+      "company": "IBOON Technologies",
+      "role": "AI/ML Developer Intern",
+      "duration": "Apr 2026 \u2013 Jul 2026",
+      "description": "Built and rigorously evaluated classical Machine Learning models (Linear Regression, Logistic Regression, KNN, Random Forest) across 7 real-world datasets covering comprehensive EDA, feature engineering, and hyperparameter tuning. Evaluated distinct baseline metrics including Accuracy, F1-Score, RMSE, and R\u00b2 to isolate optimal predictive models unique to tabular datasets. Developed robust Retrieval-Augmented Generation (RAG) pipelines inside LangChain using PromptTemplates, Document Loaders, and specialized Text Splitters for seamless enterprise document Q&A. Implemented efficient semantic data lookups using Gemini embeddings combined with a localized FAISS vector database to expedite relevant document context retrieval."
+    }
+  ],
+  "projects": [
+    {
+      "title": "AI Multi-Agent Candidate Screening & Interview Assistant",
+      "description": "Architected an end-to-end autonomous recruiting system featuring 7 specialized agents to orchestrate seamless resume screening and interactive candidate evaluation. Implemented strict attribute extraction using Pydantic Structured Outputs to convert unstructured resumes and Job Descriptions into clean, standardized JSON schemas. Engineered a decision pipeline where a dedicated Evaluation Agent logically matches extracted schemas, passing structured insights to a Planner Agent to decide interview progression. Developed a dynamic interviewing bot that generates contextual, real-time questions targeting the specific skills and project authenticity listed in the candidate's resume. Deployed the backend using FastAPI for handling asynchronous multi-agent orchestration, reducing manual profile filtering time significantly. Designed a definitive dashboard output delivering a verified 'Top 10' candidate recommendation pool to enterprise HR panels for final-stage technical onboarding.",
+      "technologies": [
+        "Python",
+        "LangChain",
+        "FastAPI",
+        "Groq (Llama 3.3 70B)",
+        "Pydantic",
+        "FAISS",
+        "PyPDF"
+      ],
+      "role": "Self Project"
+    },
+    {
+      "title": "eLearning Platform (Web Application)",
+      "description": "Built a full-stack eLearning platform with Firebase Authentication and Firestore database for course and user management. Designed the UI in Figma and deployed the frontend; collaborated with a team through the full development cycle.",
+      "technologies": [
+        "Firebase Authentication",
+        "Firestore"
+      ],
+      "role": "Team Project - Backend Developer & UI Designer"
+    }
+  ],
+  "certifications": [],
+  "github": "https://github.com/ar-junior",
+  "linkedin": null,
+  "languages": []
+}

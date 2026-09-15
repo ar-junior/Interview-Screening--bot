@@ -1,0 +1,145 @@
+{
+  "interview_eligible": true,
+  "interview_status": "Eligible",
+  "reason": "The candidate meets all mandatory requirements (Python, NumPy, Pandas, Scikit-learn, SQL, Git/GitHub, regression/classification/tree models, data cleaning, EDA, visualization). Gaps are only in optional deep\u2011learning frameworks and cloud platform exposure, which are not required. Hence, interview eligible.",
+  "total_steps": 6,
+  "step_plan": [
+    {
+      "step_number": 1,
+      "step_name": "Personal Information",
+      "topics": [
+        "Name: ARJUN RATHWA",
+        "Email and Phone",
+        "M.Sc. Computer Applications & IT (2026)",
+        "B.Sc. Mathematics (2024)",
+        "Internship at IBOON Technologies"
+      ]
+    },
+    {
+      "step_number": 2,
+      "step_name": "Programming Languages",
+      "topics": [
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "step_number": 3,
+      "step_name": "Libraries / Frameworks",
+      "topics": [
+        "NumPy",
+        "Pandas",
+        "Scikit-learn",
+        "Matplotlib",
+        "Seaborn",
+        "FastAPI",
+        "LangChain"
+      ]
+    },
+    {
+      "step_number": 4,
+      "step_name": "Tools",
+      "topics": [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Docker (basic)"
+      ]
+    },
+    {
+      "step_number": 5,
+      "step_name": "Projects",
+      "topics": [
+        "AI Multi-Agent Candidate Screening & Interview Assistant (Python, LangChain, FastAPI, FAISS, Pydantic)",
+        "eLearning Platform (Firebase Authentication, Firestore, UI design)",
+        "ML pipelines with classical algorithms and RAG implementations"
+      ]
+    },
+    {
+      "step_number": 6,
+      "step_name": "Reasoning",
+      "topics": [
+        "Fundamental ML algorithms (regression, classification, clustering, trees)",
+        "Data cleaning, exploratory data analysis, visualization",
+        "Feature engineering and hyperparameter tuning",
+        "Model evaluation and metric interpretation",
+        "Mathematical foundations (linear algebra, probability, statistics, calculus)"
+      ]
+    }
+  ],
+  "programming_languages": [
+    {
+      "skill_name": "Python",
+      "mandatory": true
+    },
+    {
+      "skill_name": "SQL",
+      "mandatory": true
+    }
+  ],
+  "libraries_frameworks": [
+    {
+      "skill_name": "NumPy",
+      "mandatory": true
+    },
+    {
+      "skill_name": "Pandas",
+      "mandatory": true
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "mandatory": true
+    },
+    {
+      "skill_name": "Matplotlib",
+      "mandatory": false
+    },
+    {
+      "skill_name": "Seaborn",
+      "mandatory": false
+    },
+    {
+      "skill_name": "FastAPI",
+      "mandatory": false
+    },
+    {
+      "skill_name": "LangChain",
+      "mandatory": false
+    }
+  ],
+  "tools": [
+    {
+      "skill_name": "Git",
+      "mandatory": true
+    },
+    {
+      "skill_name": "GitHub",
+      "mandatory": true
+    },
+    {
+      "skill_name": "VS Code",
+      "mandatory": false
+    },
+    {
+      "skill_name": "Docker",
+      "mandatory": false
+    }
+  ],
+  "project_topics": [
+    "AI Multi-Agent Candidate Screening & Interview Assistant",
+    "eLearning Platform (Web Application)",
+    "Classical ML pipelines and RAG solutions"
+  ],
+  "reasoning_topics": [
+    "Linear Algebra",
+    "Probability",
+    "Statistics",
+    "Calculus",
+    "Regression algorithms",
+    "Classification algorithms",
+    "Tree\u2011based models",
+    "Feature engineering",
+    "Model evaluation metrics (Accuracy, F1\u2011Score, RMSE, R\u00b2)",
+    "Data cleaning and preprocessing"
+  ]
+}
